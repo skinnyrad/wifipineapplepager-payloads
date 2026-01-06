@@ -1,6 +1,6 @@
 is this correct - #!/bin/bash
-# Title: Device Hunter (True Auto-Hunt + SSID)
-# Description: Auto-hunt the most recently seen AP from Recon and display SSID
+# Title: Recon Device Hunter 
+# Description: Auto-hunt a selected AP from Recon and display SSID
 # Author: RocketGod + Notorious Squirrel (sidekick)
 
 INPUT=/dev/input/event0
