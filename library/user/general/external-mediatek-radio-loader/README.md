@@ -2,6 +2,8 @@
 
 A simple, robust payload for seamlessly managing external MediaTek USB Wi-Fi adapters on the WiFi Pineapple. It handles driver loading, configuration mirroring, and automatic cleanup.
 
+Works with multiple radios via a external USB hub, tested with 2 external radios at once
+
 ## THIS PAYLOAD IS NOT REQUIRED FOR THE MK7AC ADAPTER. IT IS ALREADY PLUG AND PLAY
 
 ### ⚡ Usage Instructions (Important)
